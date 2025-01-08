@@ -3,6 +3,7 @@
 [Личные собесы](https://docs.google.com/spreadsheets/d/1QOXooB9Xyu9pom_YrOLy-JeT4oMFdYmIL9RULQGlLZ0/edit?gid=633863657#gid=633863657
 )
 
+[Менторы](https://docs.google.com/spreadsheets/d/1TbxVR5BBrNU6vZkORcae4CQXr_OrFbCij3oDPXUXF3M/edit?usp=sharing)
 Дата | Начало | Конец | Часы
  -------- | ------- | ------- | ------- |
 20.12.24|14|18|4
